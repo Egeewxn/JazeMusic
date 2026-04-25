@@ -5,7 +5,7 @@ load_dotenv()
 que = {}
 admins = {}
 
-SESSION_NAME = getenv("SESSION_NAME", "sessionjaze")
+SESSION_NAME = getenv("SESSION_NAME", "sesssion")
 BOT_TOKEN = getenv("8749491505:AAFsPvNEIWVPwOyYnT5e1f5m_nagejHLqj8")
 THUMB_IMG = getenv("THUMB_IMG", "https://i.hizliresim.com/j1qk53i.jpg")
 BOT_NAME = getenv("BOT_NAME", "🎧 Jaze Müzik")
