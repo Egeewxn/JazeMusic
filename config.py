@@ -7,7 +7,7 @@ admins = {}
 
 SESSION_NAME = getenv("SESSION_NAME", "sessionjaze")
 BOT_TOKEN = getenv("8749491505:AAFsPvNEIWVPwOyYnT5e1f5m_nagejHLqj8")
-THUMB_IMG = getenv("THUMB_IMG", "https://graph.org/file/fa5ccd7123f36f9e12592.jpg")
+THUMB_IMG = getenv("THUMB_IMG", "https://i.hizliresim.com/j1qk53i.jpg")
 BOT_NAME = getenv("BOT_NAME", "🎧 Jaze Müzik")
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
